@@ -45,7 +45,7 @@ setCurrentDate();
 
 // API Keys (use free tiers)
 const API_KEYS = {
-    newsapi: 'a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6', // Replace with your NewsAPI key
+    newsapi: 'c540dbe86a4243f59ee83cb41375a14e', // Replace with your NewsAPI key
     openweather: '11d6b7b03d4af21c66a2948710284366', // Free tier
 };
 
